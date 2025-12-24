@@ -1,16 +1,101 @@
-## Hi there 👋
-
-<!--
-**osvaldobs97/osvaldobs97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2025-12-24T03:07:10.055Z",
+  "profile": {
+    "title": "Osvaldo Becerril Salgado",
+    "subtitle": "A passionate Java Fullstack developer",
+    "currentWork": "a UniversalCopy website ",
+    "currentLearn": "Springboot and Mysql",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "obs_10@hotmail.com",
+    "funFact": "",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://osvaldobs97.github.io/Portafolio-Java-fullstack/",
+    "blog": "",
+    "resume": "https://drive.google.com/file/d/157EBvIqQJIvLozK_fbysOHxxVV_uXRpp/view?usp=sharing"
+  },
+  "social": {
+    "github": "osvaldobs97",
+    "dev": "",
+    "linkedin": "osvaldo-becerril",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "osval_becerril_1",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "android",
+    "css3",
+    "express",
+    "git",
+    "html5",
+    "java",
+    "javascript",
+    "kotlin",
+    "linux",
+    "matlab",
+    "mysql",
+    "nodejs",
+    "oracle",
+    "react",
+    "spring"
+  ]
+}
